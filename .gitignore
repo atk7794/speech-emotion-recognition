@@ -1,0 +1,33 @@
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Dataset & large artifacts
+# =========================
+archive_meld/*
+!archive_meld/README.md
+
+features_and_models/*
+!features_and_models/README.md
+
+extra_files/
+
+# =========================
+src/main/*
+!src/main/README.md
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

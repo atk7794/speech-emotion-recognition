@@ -1,0 +1,32 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+joblib
+tqdm
+
+# Audio processing
+librosa
+soundfile
+pywavelets
+praat-parselmouth
+Pillow
+
+# Deep learning & SOTA models
+torch
+torchaudio
+torchvision
+transformers
+huggingface-hub
+
+# Speech processing (GPU / Colab recommended)
+whisper
+pyannote.audio
+
+# GUI
+PyQt5
+
+# Optional external tools (manual installation may be required)
+opensmile

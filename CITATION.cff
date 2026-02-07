@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+
+title: "Multimodal Speech-Based Emotion Recognition System"
+type: software
+
+authors:
+  - family-names: Köse
+    given-names: Tuncay
+    affiliation: "Department of Computer Engineering, Dokuz Eylul University, Senior Graduation Project"
+
+year: 2025
+
+repository-code: "https://github.com/atk7794/speech-emotion-recognition"
+
+abstract: >
+  This repository contains the implementation of a multimodal speech-based
+  emotion recognition system developed as a senior graduation project.
+  The project explores classical machine learning, deep learning, and
+  state-of-the-art pretrained speech models using advanced acoustic feature
+  extraction and rigorous evaluation protocols on the MELD dataset.
+
+keywords:
+  - Speech Emotion Recognition
+  - Multimodal Learning
+  - Acoustic Features
+  - Deep Learning
+  - Machine Learning
+  - State-of-the-Art (SOTA) Models
+  - Whisper
+  - PyAnnote
+  - MELD Dataset
+  - Senior Project
