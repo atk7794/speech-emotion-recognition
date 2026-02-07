@@ -250,6 +250,11 @@ These documents are shared **for academic reference only**.
 
 ---
 
+## License
+This project is licensed under the MIT License.
+
+---
+
 ## 👤 Author
 
 **Tuncay KÖSE**  

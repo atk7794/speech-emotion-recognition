@@ -276,7 +276,9 @@ Due to its **exploratory nature**, **extensive length**, and the presence of
 dataset-dependent paths and intermediate artifacts, the notebook is **not publicly included**
 in this repository.
 
-However, the notebook can be **shared upon reasonable request** for academic review,
-reproducibility verification, or collaboration purposes.
+However, the notebook can be shared **upon request for academic or research purposes**,
+such as reproducibility verification, thesis evaluation, or potential collaboration.
 
-Interested parties may contact the author directly.
+Please note that the notebook is not self-contained and depends on
+dataset-specific paths, large intermediate artifacts, and external execution environments.
+
